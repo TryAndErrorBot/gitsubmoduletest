@@ -1,0 +1,3 @@
+[submodule "gitsubmoduletest2"]
+	path = gitsubmoduletest2
+	url = git@github.com:TryAndErrorBot/gitsubmoduletest2.git
